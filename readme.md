@@ -1,3 +1,3 @@
 # Learning Node with express
-## this is a master branch.
-### you will find all the lessons for lesson branch
+## In this lesson-one we will make a simple node server
+## install nodemon npm module
